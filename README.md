@@ -36,17 +36,17 @@ I'm a Data Analyst passionate about transforming data into meaningful insights a
 •	Analyzed premium vs claims relationship to assess profitability indicators.
 
 ## 📊 POWER BI ANALYTICS PROJECTS
-Developed interactive dashboards across multiple business domains:
-•	Airplane Crashes & Safety Analysis
-•	Retail Sales Performance Dashboard
-•	Supply Chain Analytics Dashboard
-•	Global Debt Analysis Report
-•	Car Sales Business Intelligence Dashboard
-•	Student Mental Health Data Analysis
-•	Data Science Job Salary Market Analysis
-•	Restaurant Operations Data Analysis
-•	New York Stock Exchange Data Dashboard
-•	Online Retail Sales Analysis (TATA Dataset)
+## Developed interactive dashboards across multiple business domains:
+## •	Airplane Crashes & Safety Analysis
+## •	Retail Sales Performance Dashboard
+## •	Supply Chain Analytics Dashboard
+## •	Global Debt Analysis Report
+## •	Car Sales Business Intelligence Dashboard
+## •	Student Mental Health Data Analysis
+## •	Data Science Job Salary Market Analysis
+## •	Restaurant Operations Data Analysis
+## •	New York Stock Exchange Data Dashboard
+## •	Online Retail Sales Analysis (TATA Dataset)
 
 ## 📫 Contact Me
 - Email: egbowonbolakinsley@gmail.com
