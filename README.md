@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="git remote add origin https://github.com/egbowonbolakinsley-ship-it/My-Photo.git" width="200">
-</p>
-
-<h1 align="center">Hi, I'm Kingsley 👋</h1>
-
-<p align="center">
-Data Analyst | Excel | SQL | Python | Power BI
-</p>
-
-# THE-EGBOWON-BOLA-KINGSLEY
+# EGBOWON-BOLA-KINGSLEY
 # Hi, I'm Kingsley 👋
 
 ## About Me
