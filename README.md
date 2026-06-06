@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/egbowonbolakinsley-ship-it/egbowonbolakinsley-ship-it/commit/268e1d8e4e4d85015ab4d658eaa907071bc6fd43" width="200">
+  <img src="git remote add origin https://github.com/egbowonbolakinsley-ship-it/My-Photo.git" width="200">
 </p>
 
 <h1 align="center">Hi, I'm Kingsley 👋</h1>
